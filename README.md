@@ -32,8 +32,9 @@ To run the code in this repository, you need the following libraries and tools i
 
 You can install these libraries using pip:
 
-bash
+```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
+```
 
 
 ## Data Collection
