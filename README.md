@@ -1,4 +1,4 @@
-```markdown
+
 # Breast Cancer Detection Machine Learning Model
 
 This repository contains a machine learning model for breast cancer detection using the Breast Cancer Wisconsin dataset. The model is built using Python and scikit-learn.
@@ -32,9 +32,9 @@ To run the code in this repository, you need the following libraries and tools i
 
 You can install these libraries using pip:
 
-```bash
+bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
-```
+
 
 ## Data Collection
 
